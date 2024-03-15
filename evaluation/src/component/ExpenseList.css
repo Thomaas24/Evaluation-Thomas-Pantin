@@ -1,0 +1,57 @@
+.expense-list-item {
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.expense-list td {
+    font-size: 16px; 
+}
+
+.alimentation,
+.logement,
+.transport,
+.divertissement,
+.santé,
+.éducation,
+.autres {
+    background-color: #FFC107;
+    margin-right: 2rem;
+}
+
+.logement {
+    background-color: #2196F3; 
+}
+
+.transport {
+    background-color: #4CAF50; 
+}
+
+.divertissement {
+    background-color: #E91E63; 
+}
+
+.santé {
+    background-color: #9C27B0; 
+}
+
+.éducation {
+    background-color: #b73a3a; 
+}
+
+.autres {
+    background-color: #FF5722; 
+}
+
+ul {
+    list-style-type: none; 
+}
+
+.expense-list-container {
+    text-align: center; 
+}
+
+.expense-list {
+    list-style-type: none;
+    padding: 0;
+}
+

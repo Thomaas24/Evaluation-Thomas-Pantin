@@ -1,0 +1,33 @@
+/* PieChart.css */
+.alimentation {
+    background-color: #FFC107; 
+  }
+  
+  .logement {
+    background-color: #2196F3; 
+  }
+  
+  .transport {
+    background-color: #4CAF50; 
+  }
+  
+  .divertissement {
+    background-color: #E91E63; 
+  }
+  
+  .santé {
+    background-color: #9C27B0; 
+  }
+  
+  .éducation {
+    background-color: #b73a3a; 
+  }
+  
+  .autres {
+    background-color: #FF5722; 
+  }
+  
+  .chart-wrapper {
+    width: 50%; 
+    height: 50%;
+  }

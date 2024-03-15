@@ -1,0 +1,47 @@
+/* src/components/ExpenseForm.css */
+
+.expense-form-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  
+  .expense-form-container h2 {
+    margin-top: 0;
+  }
+  
+  .expense-form-container label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .expense-form-container input[type="text"],
+  .expense-form-container input[type="number"],
+  .expense-form-container select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  .expense-form-container button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .expense-form-container button:hover {
+    background-color: #0056b3;
+  }
+  
